@@ -10,6 +10,18 @@ An API made with typescript responsible for sending email.
 
 
 ```
+## 🚦 Endpoints
+```
+GET/ --> returns a welcome message
+
+POST/email/send -->  Will send the email 
+
+    params:
+        *title   //title of email
+        *final_user   //name of the person who will receive the email
+        *body     //email body
+        *email  //target email
+```
 
 ## 💡 This project uses:
 
