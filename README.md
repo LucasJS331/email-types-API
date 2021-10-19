@@ -6,7 +6,7 @@ An API made with typescript responsible for sending email.
 ```
 # Will build the image and run Container
 
-~ docker-compose run --build
+~ docker-compose up --build
 
 
 ```
